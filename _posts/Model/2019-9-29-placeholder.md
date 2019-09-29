@@ -1,8 +1,8 @@
 ---
 layout: post
 title: placeholder
-categories: mModel
-tags: mModel
+categories: Model
+tags: Model
 ---
 
 placeholder

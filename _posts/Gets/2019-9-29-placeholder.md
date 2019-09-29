@@ -1,8 +1,8 @@
 ---
 layout: post
 title: placeholder
-categories: Gets
-tags: Gets
+categories: News
+tags: News
 ---
 
 placeholder
